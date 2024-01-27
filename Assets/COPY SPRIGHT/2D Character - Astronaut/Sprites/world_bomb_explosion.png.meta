@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 9f30f35184729d64e9778f3a861945dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4323829753409748129
+    second: bomb_explosion_0
+  - first:
+      213: 4436693064181886209
+    second: bomb_explosion_1
+  - first:
+      213: -7460063741521379795
+    second: bomb_explosion_2
+  - first:
+      213: 706566833043775456
+    second: bomb_explosion_3
+  - first:
+      213: -7013739732545936135
+    second: bomb_explosion_4
+  - first:
+      213: 3633805952752192785
+    second: bomb_explosion_5
+  - first:
+      213: 1416249457202674490
+    second: bomb_explosion_6
+  - first:
+      213: -995268162943254078
+    second: bomb_explosion_7
+  - first:
+      213: 3539421804171373943
+    second: bomb_explosion_8
+  - first:
+      213: 3331188134440443881
+    second: bomb_explosion_9
+  - first:
+      213: -1977716356774278175
+    second: bomb_explosion_10
+  - first:
+      213: -4213325290398786309
+    second: bomb_explosion_0
+  - first:
+      213: 5767877369791987958
+    second: bomb_explosion_1
+  - first:
+      213: -3412389697539376023
+    second: bomb_explosion_2
+  - first:
+      213: -4040305563405845409
+    second: bomb_explosion_3
+  - first:
+      213: -6446640062765486465
+    second: bomb_explosion_4
+  - first:
+      213: -5488396706458998231
+    second: bomb_explosion_5
+  - first:
+      213: 4373674658375381996
+    second: bomb_explosion_6
+  - first:
+      213: -7061000443724213302
+    second: bomb_explosion_7
+  - first:
+      213: 2230985687751679131
+    second: bomb_explosion_8
+  - first:
+      213: -3734791899598365927
+    second: bomb_explosion_9
+  - first:
+      213: -8389519034535764415
+    second: bomb_explosion_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 260
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: world_bomb_explosion_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0105e43d2117407db28797085d3acb4
+      internalID: 1641282295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_bomb_explosion_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 382
+        width: 185
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4eeb791a9e44307800cfc03101be75
+      internalID: -539332444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_bomb_explosion_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 368
+        width: 208
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afc0cc18e3d44a6ab5a8d56a31c5649
+      internalID: 423397098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_bomb_explosion_4
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 360
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6013b0f6f304e4fb6a3aa8841422b1f4
+      internalID: -1597844450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_bomb_explosion_5
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 384
+        width: 195
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba4b809371e43ad9c3a15f523efd5f
+      internalID: 1348300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_bomb_explosion_6
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 376
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faa9da192c36444dac6b6db038054cd
+      internalID: -2095612552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_bomb_explosion_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 201
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e73c255804c43e5b4f5dd9509a4926
+      internalID: 649216989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_bomb_explosion_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 64
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa57f40beca4400ba9f66fa561fc34b
+      internalID: 719003100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_bomb_explosion_9
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 70
+        width: 191
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a889400198d948c5885ef0e17927f17
+      internalID: -672146292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_bomb_explosion_10
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 90
+        width: 185
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f24cac89fef4febbebdd1daa57c1fc
+      internalID: -1303198371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_bomb_explosion_11
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 132
+        width: 179
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6b4f44bf5214fe6897586a70ee06ff
+      internalID: 1273719868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      world_bomb_explosion_0: 1641282295
+      world_bomb_explosion_1: -539332444
+      world_bomb_explosion_10: -1303198371
+      world_bomb_explosion_11: 1273719868
+      world_bomb_explosion_12: 1414754697
+      world_bomb_explosion_13: -874146316
+      world_bomb_explosion_14: 742177598
+      world_bomb_explosion_15: -2139871769
+      world_bomb_explosion_16: 816794378
+      world_bomb_explosion_17: 1533731649
+      world_bomb_explosion_18: 204946248
+      world_bomb_explosion_19: -1372125851
+      world_bomb_explosion_2: 423397098
+      world_bomb_explosion_20: 177013689
+      world_bomb_explosion_21: -573240566
+      world_bomb_explosion_22: -1064096904
+      world_bomb_explosion_23: 1836573636
+      world_bomb_explosion_24: 1994296320
+      world_bomb_explosion_25: 1492508921
+      world_bomb_explosion_26: -1019826685
+      world_bomb_explosion_27: 926715344
+      world_bomb_explosion_28: -221618701
+      world_bomb_explosion_29: 682024609
+      world_bomb_explosion_3: 865613017
+      world_bomb_explosion_30: -406849890
+      world_bomb_explosion_31: -336685907
+      world_bomb_explosion_32: -1192575300
+      world_bomb_explosion_33: 486715637
+      world_bomb_explosion_34: 1273336072
+      world_bomb_explosion_35: 631267885
+      world_bomb_explosion_36: -1144554873
+      world_bomb_explosion_37: 1985033432
+      world_bomb_explosion_38: 881627939
+      world_bomb_explosion_39: -1237612391
+      world_bomb_explosion_4: -1597844450
+      world_bomb_explosion_40: 1310134049
+      world_bomb_explosion_41: -1395242849
+      world_bomb_explosion_42: -902781026
+      world_bomb_explosion_43: -2078261302
+      world_bomb_explosion_44: -1941845841
+      world_bomb_explosion_45: 1572967140
+      world_bomb_explosion_46: 542403304
+      world_bomb_explosion_47: -1906788398
+      world_bomb_explosion_48: 1630953451
+      world_bomb_explosion_49: 703593131
+      world_bomb_explosion_5: 1348300076
+      world_bomb_explosion_6: -2095612552
+      world_bomb_explosion_7: 649216989
+      world_bomb_explosion_8: 719003100
+      world_bomb_explosion_9: -672146292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
